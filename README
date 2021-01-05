@@ -1,0 +1,19 @@
+/************************************************************************************
+* Maria Fernanda Becerra
+* mfbecerr
+* CSE101
+* pa3
+* README
+************************************************************************************/
+
+Files Included:
+
+README        includes all files submitted
+Makfile       makes FindPath and GraphTest
+FindPath.c    Graph.c client that finds closest path from
+              source to destination using BFS
+GraphTest.c   checks Graph.c functions
+Graph.h       header file for Graph.c
+Graph.c       Makes a graph and finds closest path using BFS
+List.h        header file for List.c
+List.c        makes linked lists
